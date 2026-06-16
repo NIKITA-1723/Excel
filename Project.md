@@ -13,16 +13,16 @@ Project Workflow:
 
 Tools & Features Used:
 ----------------------
-Microsoft Excel
-Data Cleaning
-Remove Duplicates
-Find & Replace
-Filters
-IF & AND Functions
-Pivot Tables
-Pivot Charts
-Slicers
-Dashboard Design
+* Microsoft Excel
+* Data Cleaning
+* Remove Duplicates
+* Find & Replace
+* Filters
+* IF & AND Functions
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Dashboard Design
 
 Key Insights:
 -------------
