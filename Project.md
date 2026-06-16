@@ -10,6 +10,7 @@ Project Workflow:
 8. Analyzed bike purchase patterns across different age groups.
 9. Added interactive slicers for dynamic filtering by customer attributes.
 10. Designed an interactive Bike Sales Dashboard to visualize key insights and support data-driven decision-making.
+
 Key Insights:
 -------------
 1. Customers with higher incomes were more likely to purchase bikes.
